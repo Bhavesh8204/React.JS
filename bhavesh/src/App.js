@@ -1,22 +1,18 @@
-import React, { useState } from 'react';
-import './App.css';
-import Header from './Header';
-import Content from './Content';
-import bhavesh from './bhavesh.jpg'
-import Bhavesh from './Bhavesh'
+import Animation from './Animation';
+import ColorChange from './Color-change';
+import OpenModel from './Open-Model';
+import Todo from './todo';
+
 function App() {
 
-
   return (
-    <div className="App">
-      {/* <Header/>
-      <img src={bhavesh}/>
-      <Content/> */}
-      <Bhavesh />
-
-
-    </div>
-  );
+    <>
+      <Todo/>
+      <ColorChange/>
+      <OpenModel/>
+      <Animation/>
+    </>
+  )
 }
 
 export default App;
