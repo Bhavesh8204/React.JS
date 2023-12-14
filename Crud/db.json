@@ -1,10 +1,16 @@
 {
-  "Employe": [
+  "employe": [
+    {
+      "id": 1,
+      "name": "Bhavesh Jalandhara",
+      "email": "bhaveshahir1210@gmail.com",
+      "phone": "8141825382"
+    },
     {
       "id": 2,
-      "name": "Bhavesh",
-      "email": "abjalandhara@gmail.com",
-      "phone": "BJBHJB"
+      "name": "Raghav Jalandhara",
+      "email": "raghav@gmail.com",
+      "phone": "7043896361"
     }
   ]
 }

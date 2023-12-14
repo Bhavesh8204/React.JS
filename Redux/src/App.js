@@ -1,9 +1,11 @@
 import './App.css';
+import Parent from './Components/Context/Parent';
 
 function App() {
+
   return (
     <div className="App">
-      Hello
+      <Parent />
     </div>
   );
 }
