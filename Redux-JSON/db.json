@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "jbhgvghvh",
+      "price": "hjjvhvhjv",
+      "category": "hvhjvhjbjj"
+    },
+    {
+      "id": 3,
+      "name": "bjhb",
+      "price": "jhbhj",
+      "category": "hjb"
+    },
+    {
+      "id": 4,
+      "name": "jkjn",
+      "price": "kjbnkjnkj",
+      "category": "nknknk"
+    },
+    {
+      "id": 5,
+      "name": "jbjb",
+      "price": "jbjbj",
+      "category": "bjbjbj"
+    },
+    {
+      "id": 6,
+      "name": "jvjhb",
+      "price": "hjvjhvjh",
+      "category": "jbjbj"
+    },
+    {
+      "id": 7,
+      "name": "jjb",
+      "price": "jbhj",
+      "category": "bjbhjbjbj"
+    },
+    {
+      "id": 8,
+      "name": "jbjb",
+      "price": "jhbhjb",
+      "category": "jhbhjbjh"
+    },
+    {
+      "id": 9,
+      "name": "bjjbj",
+      "price": "bkjbkj",
+      "category": "kjkjnkj"
+    },
+    {
+      "id": 10,
+      "name": "jbhjb",
+      "price": "jhbhjbjb",
+      "category": "jbjhbhjb"
+    },
+    {
+      "id": 11,
+      "name": "jbj",
+      "price": "bhjb",
+      "category": "hjbjbj"
+    },
+    {
+      "id": 12,
+      "name": "mansi",
+      "price": "",
+      "category": ""
+    }
+  ]
+}
