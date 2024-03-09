@@ -12,7 +12,7 @@ function ViewEmployeData() {
 
   return (
     <div>
-    <h1 className='m-2 text-center'>
+    <h1 className='m-2 text-center'> 
       View Profile
     </h1>
     <table class="table m-5">
